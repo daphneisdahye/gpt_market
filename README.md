@@ -1,5 +1,5 @@
 # chatgpt_market
-##visit page:https://gsmini207.github.io/chatgpt_market/
+##visit page:https://gsmini207.github.io/gpt_market/
 
 -Chat gptに命令を下して簡単なウェブページを作りました。
 
